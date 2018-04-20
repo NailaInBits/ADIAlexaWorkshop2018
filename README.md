@@ -14,7 +14,7 @@ Click download zip file
 
 # Workshop Slidedeck
 
-[Slides](https://docs.google.com/presentation/d/1S-0ZlybCI1f1kBDbYM_Uk7n6A5QgFQKI9bzOtMdpvfY/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1S2CBrb9FwAYOmWI2CTM1YKg5Um5_hgBJ004a0XVt_n8/edit?usp=sharing)
 
 # Helpful Links:
 
